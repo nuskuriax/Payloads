@@ -1,0 +1,7 @@
+<!--#exec cmd="whoami"-->
+<!--#directive parameter=value parameter=value -->
+<!--#exec cmd="cd /root/dir/">
+<!--#exec cmd="ls" -->
+<!--#exec cmd="dir" -->
+<!--#echo cmd="whoami"-->
+<!--#exec cmd=dir-->
